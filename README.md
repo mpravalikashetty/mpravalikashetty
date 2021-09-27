@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mpravalikashetty@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pravalika-manikyam-5611b5181](https://www.linkedin.com/in/pravalika-manikyam-5611b5181)
+- 📄 Know about my experiences [LinkedIN Profile](https://www.linkedin.com/in/itsmepravalikam/)
 - ⚡ Fun fact **I think I am cute & sweet**
 <img align="right" alt="coding" height="200" width="300" src="https://blog.penjee.com/wp-content/uploads/2016/05/penjee-penguin-recursion-visualization.gif ">
 <h3 align="left">Connect with me:</h3>
