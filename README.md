@@ -25,9 +25,11 @@
 <img align="right" alt="coding" height="200" width="300" src="https://blog.penjee.com/wp-content/uploads/2016/05/penjee-penguin-recursion-visualization.gif ">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mpravalika8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/mpravalika8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pravalika-manikyam-5611b5181" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pravalika-manikyam-5611b5181" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mpravalikashetty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mpravalikashetty" height="30" width="40" /></a>
+<a href="https://twitter.com/MPravalika8?t=NKh6kPfvAbhOQ9M7Cngcjw&s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/mpravalika8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itsmepravalikam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pravalika-manikyam-5611b5181" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mpravalikashetty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mpravalikashetty" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mpravalika_er" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mpravalikashetty" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
