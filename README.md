@@ -1,39 +1,30 @@
 
 <h1 align="center">Hi 👋, I'm M Pravalika</h1>
-<h3 align="center">I am a undergraduate Student, A Passionate Learner #alwayslearning and A Bold Girl with lots of Ambitions and Wonderful Dreams, always chasing My Dreams #dreamcatcher. I'm waiting for My Best Day in My Entire Life. "It is Important to Follow Your Dreams and Heart. Do Something that Excites You."-Sundar Pichai</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mpravalikashetty&label=Profile%20views&color=0e75b6&style=flat" alt="mpravalikashetty" /> </p>
-
-
-
--  🌱 I’m currently learning **Advanced Python and ML as well**
-
-- 👯 I’m looking to collaborate on **Frontend Website Creations**
-
-- 🤝 I’m looking for help with **All My Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mpravalikashetty](https://github.com/mpravalikashetty)
-
-- 📝 I regularly write articles on [https://www.blogger.com/profile/17950841945951695755](https://www.blogger.com/profile/17950841945951695755)
-
-- 💬 Ask me about **Python, Java, Html5, Css3 and JavaScript**
-
-- 📫 How to reach me **mpravalikashetty@gmail.com**
-
-- 📄 Know about my experiences [LinkedIN Profile](https://www.linkedin.com/in/itsmepravalikam/)
-- ⚡ Fun fact **I think I am simple and elegant**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MPravalika8?t=NKh6kPfvAbhOQ9M7Cngcjw&s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/mpravalika8" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/itsmepravalikam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pravalika-manikyam-5611b5181" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mpravalikashetty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mpravalikashetty" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mpravalika_er" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mpravalikashetty" height="30" width="40" /></a>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mpravalikashetty&label=Profile%20views&color=0e75b6&style=flat" alt="mpravalikashetty" /> </p>
+<h3 align="center">I'm currently a Salesforce Developer with over 2.6 years of experience at Persistent Systems Limited</h3>
+<p align="center">
+  <b>Technical Skills:</b>Lightning Web Components, Apex Programming, Salesforce Admin & Developement Skills, Integration, Webservices etc.
+  <b>Clouds:</b>Sales Cloud,Service Cloud,Basics of Financial Service Cloud and Omnistudio.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+-  🌱 I’m currently mastering **Salesforce Skills**
+
+- 👯 I’m looking to collaborate on **Innovative Salesforce Projects**
+
+- 🤝 I’m want you to explore some of my intresting & useful projects at **[https://github.com/mpravalikashetty](https://github.com/mpravalikashetty)**
+
+- 📝 I rearly write articles on [https://www.blogger.com/profile/17950841945951695755](https://www.blogger.com/profile/17950841945951695755)
+
+- 💬 Ask me about **Salesforce Development Skills & Admin Skills**
+
+- 📫 Reach me at **mpravalikashetty@gmail.com**
+  
+- 📄 Know about my experiences or Ping me at: [LinkedIN Profile](https://www.linkedin.com/in/m-pravalika/)
+  
+- ⚡ Fun fact **People say that I am Smart, But I think I am Hard Working**
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpravalikashetty&show_icons=true&locale=en&layout=compact" alt="mpravalikashetty" /></p>
 
